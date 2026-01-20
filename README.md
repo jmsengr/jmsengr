@@ -1,6 +1,5 @@
 # 💫 About Me:
-I’m James, just a regular student doing my very best to achieve mastery at my craft. I’m interested in gaining more knowledge and experience in the field of computer science and software engineering. I always try to explore and widen my skill set because, why not? Knowledge is free after all.<br><br>Currently learning Docker and the basics of system design. I enjoy seeing how everything works and what it looks like under the hood. I’m particularly interested in system internals and understanding how different components interact and flow together to form a complete system.
-
+I’m James, a dedicated student focused on steadily achieving mastery in my craft. I’m passionate about gaining deeper knowledge and hands on experience in computer science and software engineering, and I continuously push myself to explore and expand my technical skill set. I believe growth comes from curiosity and consistency and there’s always more to learn.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jakejamesanutabatayola) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:batayolajakejames@gmail.com) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28030291) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jmsdevx) 
