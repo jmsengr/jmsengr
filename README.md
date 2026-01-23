@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m James, a dedicated student focused on steadily achieving mastery in my craft. I’m passionate about gaining deeper knowledge and hands on experience in computer science and software engineering, and I continuously push myself to explore and expand my technical skill set. I believe growth comes from curiosity and consistency and there’s always more to learn.
+I’m James, a student passionate about computer science and software engineering, driven by curiosity and a commitment to continuous growth. I focus on learning by building, pushing my limits, and steadily refining my skills because there’s always more to learn.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jakejamesanutabatayola) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:batayolajakejames@gmail.com) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28030291) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jmsdevx) 
